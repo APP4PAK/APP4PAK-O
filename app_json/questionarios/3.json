@@ -1,0 +1,16 @@
+[
+    {
+        "title": "quiz",
+        "question": "Wich statement is true about microservices?",
+        "answer_A": "They focus on technical integration issues and the level of the implemented services are often fine-grained technical APIs",
+        "answer_B": "They support the packaging of the applications in a monolithic fashion",
+        "answer_C": "They implement clear business capabilities through coarse-grained business APIS",
+        "answer_D": "They are a service built and delivered without automation of testing and deployment and operations",
+        "result": "A" 
+    },
+
+    {
+        "title": "explanation",
+        "comments": "B - Microserviços são o oposto de aplicações monolíticas. /n C - O ideal é decompor em fine-grained services, mas pode se iniciar com coarse-grained. Não está correto. /n D - Resposta totalmente sem sentido"
+    }
+]

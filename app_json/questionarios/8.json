@@ -1,0 +1,17 @@
+[
+    {
+        "title": "quiz",
+        "question": "What two application modernization tools are included in the cloud pak for applications running on Openshift Container Platform (OCP)?",
+        "answer_A": "IBM Digital APP Builder",
+        "answer_B": "Transformation Advisor",
+        "answer_C": "Application Navigator",
+        "answer_D": "IBM Integration toolkitE",
+        "answer_E": "Platform Navigator",
+        "result": ["A", "B"] 
+    },
+
+    {
+        "title": "explanation",
+        "comments": "Trasnformation Advisor- Ajuda a modernizar fornecendo insigtsIBM Digital App Builder - ferramenta geradora de código, permite criar aplicações sem codificar muito - Parte do Mobile First - ajudaa modernizarIBM Application Navigator is a tool that extends the Kubernetes® console to provide the display, inspection, understanding, and navigation of applications composed of Kubernetes resources and existing middleware, such as WebSphere Application Server. - não moderniza IBM Application Navigator is a tool that extends the Kubernetes® console to provide the display, inspection, understanding, and navigation of applications composed of Kubernetes resources and existing middleware, such as WebSphere Application Server. - não modernizaIBM Integration toolkit nem é parte do PAK4AppPlatform Navigator - a simple integrated user interface spanning components. - não moderniza e é parte do PAK4I, não do PAK4App"
+    }
+]

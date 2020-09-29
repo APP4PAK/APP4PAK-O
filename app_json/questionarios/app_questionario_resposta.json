@@ -1,0 +1,17 @@
+[
+    {
+        "title": "quiz",
+        "question": "",
+        "answer_A": "",
+        "answer_B": "",
+        "answer_C": "",
+        "answer_D": "",
+        "answer_E": null,
+        "result": "" // Or ---> "result":["A", "B", "E"]
+    },
+
+    {
+        "title": "explanation",
+        "comments": ""
+    }
+]
