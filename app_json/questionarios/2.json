@@ -1,6 +1,10 @@
 [
     {
         "title": "quiz",
+        "objective":"",
+        "ID": "PAK4APP002",
+        "ID_Prova": "PAK4APP",
+        "type": "radio",
         "question": "A Solution Architect needs to simplify the front end of an application that provides a single-channel user experience and is willing to transfer more functionality for the bak end services to handle. What development pattern should the solution Architect use?",
         "answer_A": "Entity and Agregate patterns",
         "answer_B": "Single Page Application (SPA) pattern",

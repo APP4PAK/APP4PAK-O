@@ -1,6 +1,10 @@
 [
     {
         "title": "quiz",
+        "objective":"",
+        "ID": "PAK4APP",
+        "ID_Prova": "PAK4APP",
+        "type": "", // radio, checkbox, ordination.
         "question": "",
         "answer_A": "",
         "answer_B": "",

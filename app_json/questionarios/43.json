@@ -1,0 +1,20 @@
+[
+    {
+        "title": "quiz",
+        "objective":"",
+        "ID": "PAK4APP043",
+        "ID_Prova": "PAK4APP",
+        "type": "ordination",
+        "question": "Order the elements to make sense:",
+        "answer_A": "Create Liberty Container Image",
+        "answer_B": "Push the Liberty Container image to an Image Repository",
+        "answer_C": "Deploy Liberty container with deployment YAML",
+        "answer_D": "Test the Liberty Conteiner locally",
+        "result": ["answer_A", "answer_D", "answer_B", "answer_C"]
+    },
+
+    {
+        "title": "explanation",
+        "comments": "Primeiro se cria a Imagem do Container, depois se testa localmente, depois se faz push para o registry do Openshift, Depois se faz o deploy do container utilizando um YAML, portanto A,D,B,C"
+    }
+]

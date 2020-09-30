@@ -1,6 +1,10 @@
 [
     {
         "title": "quiz",
+        "objective":"",
+        "ID": "PAK4APP008",
+        "ID_Prova": "PAK4APP",
+        "type": "checkbox",
         "question": "What two application modernization tools are included in the cloud pak for applications running on Openshift Container Platform (OCP)?",
         "answer_A": "IBM Digital APP Builder",
         "answer_B": "Transformation Advisor",

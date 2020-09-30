@@ -1,0 +1,18 @@
+{
+    "ID": "PAK4APP",
+    "name": "",
+    // "weight": "", // peso
+    "number_of_goals": "", //numero de objetivos
+    "goals": 
+    
+        [{"name": "",
+           "peso": ""
+
+        }], // objetivos
+    "number_of_questions": "", //numero de questões
+    "trial_time": "" // tempo de prova
+}
+
+// peso por objetivo
+
+// tempo por prova
