@@ -1,6 +1,6 @@
-"prob001":
 {
-    [
+    "results":
+    [{
         "obj001": {
             "how_many_hit": "", //quantos acertos
             "ID_goal": "", //qual o objetivo
@@ -51,6 +51,6 @@
             "ID_goal": "", 
             "score": ""
         }
-    ]
+    }]
 
 }

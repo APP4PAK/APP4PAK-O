@@ -1,21 +1,24 @@
-[
-    {
-        "title": "quiz",
-        "objective":"",
-        "ID": "PAK4APP",
-        "ID_Prova": "PAK4APP",
-        "type": "", // radio, checkbox, ordination.
-        "question": "",
-        "answer_A": "",
-        "answer_B": "",
-        "answer_C": "",
-        "answer_D": "",
-        "answer_E": null,
-        "result": "" // Or ---> "result":["A", "B", "E"]
-    },
-
-    {
-        "title": "explanation",
-        "comments": ""
+{
+    "questions000":{
+        "questions":{
+            "objective":"",
+            "ID_goal": "", // Identico ao da prova
+            "ID_Global": "PAK4",
+            "ID_Thema": "APP",
+            "ID_Question": "000",
+            "ID_Prova": "PAK4APP",
+            "type": "", // radio, checkbox, ordination.
+            "question": "",
+            "answer_A": "",
+            "answer_B": "",
+            "answer_C": "",
+            "answer_D": "",
+            "answer_E": null,
+            "result": "" // Or ---> "result":["A", "B", "E"]
+        },
+        "comments":{
+            "comment": "",
+            "link": ""
+        }
     }
-]
+}
