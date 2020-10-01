@@ -1,13 +1,13 @@
 {
     "questions":{
         "question":{        
-            "ID_goal": "001",
+            "ID_goal": "S01",
             "ID_Global": "PAK4",
-            "ID_Thema": "APP",
+            "ID_Subject": "APP",
             "ID_Question": "001",
             "ID_Prova": "PAK4APP",
             "type": "radio",
-            "question": "What is one important consideration in determining the right number and size of microservices for an application?",
+            "statement": "What is one important consideration in determining the right number and size of microservices for an application?",
             "answer_A": "More MicroServices means more distribution and therefore better performance",
             "answer_B": "Large Microservices are faster to develop and deploy than small microservices",
             "answer_C": "MicroServices must be flexible and easy to maintain by a small team ",

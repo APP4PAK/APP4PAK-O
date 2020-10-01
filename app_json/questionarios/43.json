@@ -1,14 +1,13 @@
 {
     "questions":{
         "question":{
-            "objective":"",
             "ID_goal": "",
             "ID_Global": "PAK4",
-            "ID_Thema": "APP",
+            "ID_Subject": "APP",
             "ID_Question": "043",
             "ID_Prova": "PAK4APP",
             "type": "ordination",
-            "question": "Order the elements to make sense:",
+            "statement": "Order the elements to make sense:",
             "answer_A": "Create Liberty Container Image",
             "answer_B": "Push the Liberty Container image to an Image Repository",
             "answer_C": "Deploy Liberty container with deployment YAML",

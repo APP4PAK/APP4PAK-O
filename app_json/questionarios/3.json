@@ -1,14 +1,13 @@
 {
     "questions":{
         "questions":{
-            "objective":"",
             "ID_goal": "",
             "ID_Global": "PAK4",
-            "ID_Thema": "APP",
+            "ID_Subject": "APP",
             "ID_Question": "003",
             "ID_Prova": "PAK4APP",
             "type": "radio",
-            "question": "Wich statement is true about microservices?",
+            "statement": "Wich statement is true about microservices?",
             "answer_A": "They focus on technical integration issues and the level of the implemented services are often fine-grained technical APIs",
             "answer_B": "They support the packaging of the applications in a monolithic fashion",
             "answer_C": "They implement clear business capabilities through coarse-grained business APIS",

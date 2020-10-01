@@ -1,14 +1,13 @@
 {
     "questions":{
         "question":{
-            "objective":"",
-            "ID_goal": "", // Identico ao da prova
+            "ID_goal": "S00", // Identico ao da prova//OBJETIVODA PROVA
             "ID_Global": "PAK4",
-            "ID_Thema": "APP",
+            "ID_Subject": "APP",
             "ID_Question": "000",
             "ID_Prova": "PAK4APP",
             "type": "", // radio, checkbox, ordination.
-            "question": "",
+            "statement": "",
             "answer_A": "",
             "answer_B": "",
             "answer_C": "",

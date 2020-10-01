@@ -1,0 +1,42 @@
+{
+    "ID_Prova": "PAK4APP",
+    "number_of_questions": 60,
+    "trial_time": 90,
+    "number_of_goals": 7,
+    "goals": [
+    {        
+        "name": "Design and architect a Cloud Native solution",
+        "weight": 8,
+        "ID_goal": "S01"
+    },
+    {        
+        "name": "OpenShift Container Plataform Architect",
+        "weight": 10,
+        "ID_goal": "S02"
+    },
+    {        
+        "name": "Cloud Pak for Applications Overview",
+        "weight": 12,
+        "ID_goal": "S03"
+    },
+    {        
+        "name": "Architecting for new applications",
+        "weight": 7,
+        "ID_goal": "S04"
+    },
+    {        
+        "name": "Architecting new applications with Accelerators for Teams",
+        "weight": 10,
+        "ID_goal": "S05"
+    },
+    {        
+        "name": "Modernize applications",
+        "weight": 7,
+        "ID_goal": "S06"
+    },
+    {        
+        "name": "Architect Continuous Integration/Continuous Deployment (CI/CD) and the DevOps lifecycle",
+        "weight": 6,
+        "ID_goal": "S07"
+    }]
+}
