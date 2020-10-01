@@ -1,5 +1,5 @@
 {
-    "questions008":{
+    "questions":{
         "questions":{
             "objective":"",
             "ID_goal": "",
@@ -14,12 +14,11 @@
             "answer_C": "Application Navigator",
             "answer_D": "IBM Integration toolkitE",
             "answer_E": "Platform Navigator",
-            "result": ["answer_A", "answer_B"] 
-        },
-
-        "comments"{
-            "comment": "Trasnformation Advisor- Ajuda a modernizar fornecendo insigtsIBM Digital App Builder - ferramenta geradora de código, permite criar aplicações sem codificar muito - Parte do Mobile First - ajudaa modernizarIBM Application Navigator is a tool that extends the Kubernetes® console to provide the display, inspection, understanding, and navigation of applications composed of Kubernetes resources and existing middleware, such as WebSphere Application Server. - não moderniza IBM Application Navigator is a tool that extends the Kubernetes® console to provide the display, inspection, understanding, and navigation of applications composed of Kubernetes resources and existing middleware, such as WebSphere Application Server. - não modernizaIBM Integration toolkit nem é parte do PAK4AppPlatform Navigator - a simple integrated user interface spanning components. - não moderniza e é parte do PAK4I, não do PAK4App",
-            "link": ""
+            "result": ["answer_A", "answer_B"], 
+            "comments":{
+                "comment": "Trasnformation Advisor- Ajuda a modernizar fornecendo insigtsIBM Digital App Builder - ferramenta geradora de código, permite criar aplicações sem codificar muito - Parte do Mobile First - ajudaa modernizarIBM Application Navigator is a tool that extends the Kubernetes® console to provide the display, inspection, understanding, and navigation of applications composed of Kubernetes resources and existing middleware, such as WebSphere Application Server. - não moderniza IBM Application Navigator is a tool that extends the Kubernetes® console to provide the display, inspection, understanding, and navigation of applications composed of Kubernetes resources and existing middleware, such as WebSphere Application Server. - não modernizaIBM Integration toolkit nem é parte do PAK4AppPlatform Navigator - a simple integrated user interface spanning components. - não moderniza e é parte do PAK4I, não do PAK4App",
+                "link": ""
+            }
         }
     }
 }

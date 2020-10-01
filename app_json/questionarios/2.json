@@ -1,6 +1,6 @@
 {
-    "question002":{
-        "questions":{
+    "questions":{
+        "question":{
             "objective":"",
             "ID_goal": "",
             "ID_Global": "PAK4",
@@ -13,11 +13,11 @@
             "answer_B": "Single Page Application (SPA) pattern",
             "answer_C": "Adapter Microservices pattern",
             "answer_D": "Backend for FrontEnd (BFF) pattern",
-            "result": "answer_D" 
-        },
-        "coments":{
-            "comment": "A  - Entity são entidades de negócios e nada tem a ver com o FrontEnd, Agregate são patterns que adicionam valor a um componente. /n B - Single Page Application poderia ser a resposta, já que criam uma página única que simplifica a aplicação. Aqui no caso, ele comenta que gostaria de transferir mais funcionalidade ao backend, então o BFF funciona como uma camada de isolamento entre a apresentação e os microservicos. /n C - Adapter convertem um formato em outro, e não são a resposta",
-            "link": ""
+            "result": "answer_D",
+            "coments":{
+                "comment": "A  - Entity são entidades de negócios e nada tem a ver com o FrontEnd, Agregate são patterns que adicionam valor a um componente. /n B - Single Page Application poderia ser a resposta, já que criam uma página única que simplifica a aplicação. Aqui no caso, ele comenta que gostaria de transferir mais funcionalidade ao backend, então o BFF funciona como uma camada de isolamento entre a apresentação e os microservicos. /n C - Adapter convertem um formato em outro, e não são a resposta",
+                "link": ""
+            }
         }
     }
 }

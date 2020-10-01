@@ -1,6 +1,6 @@
 {
-    "questions000":{
-        "questions":{
+    "questions":{
+        "question":{
             "objective":"",
             "ID_goal": "", // Identico ao da prova
             "ID_Global": "PAK4",
@@ -14,11 +14,11 @@
             "answer_C": "",
             "answer_D": "",
             "answer_E": null,
-            "result": "" // Or ---> "result":["A", "B", "E"]
-        },
-        "comments":{
-            "comment": "",
-            "link": ""
+            "result": "", // Or ---> "result":["A", "B", "E"]
+            "comments":{
+                "comment": "",
+                "link": ""
+            }
         }
     }
 }
