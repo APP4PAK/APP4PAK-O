@@ -1,54 +1,54 @@
 {
     "ID_Prova": "PAK4APP",
     "name": "",
+    "number_of_questions": "", //numero de questões
+    "trial_time": "", // tempo de prova
     "number_of_goals": "", //numero de objetivos
     "goals": [
         {        
         "name": "",
-        "weight": "", // peso
+        "questions_percent": "", // peso
         "ID_goal": "001"
     },
     {        
         "name": "",
-        "weight": "",
+        "questions_percent": "",
         "ID_goal": "001"
     },
     {        
         "name": "",
-        "weight": "",
+        "questions_percent": "",
         "ID_goal": "001"
     },
     {        
         "name": "",
-        "weight": "",
+        "questions_percent": "",
         "ID_goal": "001"
     },
     {        
         "name": "",
-        "weight": "",
+        "questions_percent": "",
         "ID_goal": "001"
     },
     {        
         "name": "",
-        "weight": "",
+        "questions_percent": "",
         "ID_goal": "001"
     },
     {        
         "name": "",
-        "weight": "",
+        "questions_percent": "",
         "ID_goal": "001"
     },
     {        
         "name": "",
-        "weight": "",
+        "questions_percent": "",
         "ID_goal": "001"
     },
     {        
         "name": "",
-        "weight": "",
+        "questions_percent": "",
         "ID_goal": "001"
     }
-    ], // objetivos
-    "number_of_questions": "", //numero de questões
-    "trial_time": "" // tempo de prova
+    ] // objetivos
 }

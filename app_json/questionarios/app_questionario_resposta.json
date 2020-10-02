@@ -3,7 +3,7 @@
         "question":{
             "ID_goal": "S00", // Identico ao da prova//OBJETIVODA PROVA
             "ID_Global": "PAK4",
-            "ID_Subject": "APP",
+            "ID_Subject": ["APP"],
             "ID_Question": "000",
             "ID_Prova": "PAK4APP",
             "type": "", // radio, checkbox, ordination.
@@ -14,10 +14,10 @@
             "answer_D": "",
             "answer_E": null,
             "result": "", // Or ---> "result":["A", "B", "E"]
-            "comments":{
+            "comments":[{
                 "comment": "",
                 "link": ""
-            }
+            }]
         }
     }
 }

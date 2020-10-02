@@ -3,7 +3,7 @@
         "questions":{
             "ID_goal": "",
             "ID_Global": "PAK4",
-            "ID_Subject": "APP",
+            "ID_Subject": ["APP"],
             "ID_Question": "003",
             "ID_Prova": "PAK4APP",
             "type": "radio",
@@ -13,10 +13,10 @@
             "answer_C": "They implement clear business capabilities through coarse-grained business APIS",
             "answer_D": "They are a service built and delivered without automation of testing and deployment and operations",
             "result": "A", 
-            "comments":{
+            "comments":[{
                 "comment": "B - Microserviços são o oposto de aplicações monolíticas. /n C - O ideal é decompor em fine-grained services, mas pode se iniciar com coarse-grained. Não está correto. /n D - Resposta totalmente sem sentido",
                 "link": ""
-            }
+            }]
         }
     }
 }
